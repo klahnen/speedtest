@@ -7,8 +7,6 @@ Currently speedtest.net CLI is just supported for:
 * Fedora/CentOS/Redhat
 * FreeBSD
 
-Windows is not supported that's why I created this repo, so every Windows user is able to run speedtest cli.
-
 ## Examples
 
 ### Basic Speedtest
